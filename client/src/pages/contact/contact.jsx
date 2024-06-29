@@ -34,7 +34,7 @@ const Contact = () => {
           }
         }}
       >
-        <option value="all">All</option>
+        <option value="all">All product</option>
         <option value="men's clothing">men's clothing</option>
         <option value="jewelery">jewelery</option>
         <option value="electronics">electronics</option>
